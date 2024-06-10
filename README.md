@@ -40,9 +40,9 @@ This Python script allows you to extract timestamps and notes from CSV files con
 2. Click the 3 horizontal dots in the top right corner of the Index Pane
 3. Hover over "Show Markers"
 4. Choose the marker color that represents your chapter markers
-2. Once more click the 3 horizontal dots
-5. Select Export Edit Index at the very bottom of the list.
-6. Save this file within the same folder/directory as the .exe or script files.
+5. Once more click the 3 horizontal dots
+6. Select Export Edit Index at the very bottom of the list.
+7. Save this file within the same folder/directory as the .exe or script files.
 
 ## Notes
 
