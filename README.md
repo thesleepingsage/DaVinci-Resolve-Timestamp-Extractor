@@ -33,7 +33,7 @@ This Python script allows you to extract timestamps and notes from CSV files con
 ## How to Export Timestamps CSV in DaVinci
 
 - Video Guide Coming Soon
-![Export CSV](https://i.imgur.com/9XucRRw.png))
+![Export CSV](https://i.imgur.com/qw3xKwr.png)
 
 - Use a consistent marker color for timeline chapters. I personally use RED markers. Red for YouTube. How original.
 - Enable the Index Pane in DaVinci Resolve
