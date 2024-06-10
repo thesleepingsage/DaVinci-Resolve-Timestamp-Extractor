@@ -21,9 +21,9 @@ This Python script allows you to extract timestamps and notes from CSV files con
 5. Enter a filename for the output file (e.g., `output.txt`)
 6. The script will process the selected CSV file and generate the output file in the same directory
 
-https://i.imgur.com/61Zdtsa.png
-https://i.imgur.com/A1GzcdI.png
-https://i.imgur.com/1lHH7OO.png
+![Step 1](https://i.imgur.com/61Zdtsa.png)
+![Step 2](https://i.imgur.com/A1GzcdI.png)
+![Step 3](https://i.imgur.com/1lHH7OO.png)
 
 ## Requirements
 
