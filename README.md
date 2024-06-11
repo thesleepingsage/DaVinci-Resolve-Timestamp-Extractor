@@ -17,7 +17,7 @@ This Python script allows you to extract timestamps and notes from CSV files con
 - Video Guide Coming Soon
 ![Export CSV](https://i.imgur.com/qw3xKwr.png)
 
-- Use a consistent marker color for timeline chapters. I personally use RED markers. Red for YouTube. How original.
+- Use a consistent marker color for timeline chapters. I personally use RED markers. Red for YouTube. How creative.
 1. Enable the Index Pane in DaVinci Resolve
 2. Click the 3 horizontal dots in the top right corner of the Index Pane
 3. Hover over "Show Markers"
