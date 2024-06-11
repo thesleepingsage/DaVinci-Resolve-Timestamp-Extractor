@@ -39,14 +39,16 @@ This Python script allows you to extract timestamps and notes from CSV files con
 ![Step 2](https://i.imgur.com/A1GzcdI.png)
 ![Step 3](https://i.imgur.com/1lHH7OO.png)
 
+## Notes
+
+I have included an example timestamp CSV file which you can test from.
+
 ## Requirements
 
 - If running the script, Python 3.x
 - No external dependencies
 
-## Notes
 
-I have included an example timestamp CSV file which you can test from.
 
 ## Contributing
 
