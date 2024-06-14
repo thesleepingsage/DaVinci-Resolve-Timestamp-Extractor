@@ -15,10 +15,10 @@ def extract_info(row: Dict[str, str]) -> Optional[str]:
             time_parts = timestamp.split(':')
             minutes, seconds = time_parts[1], time_parts[2]
             time_str = f"{minutes}:{seconds}"
-            return f"{note} {time_str}"
+            return f"{time_str} - <{note}>"
         except (IndexError, ValueError):
             # Handle cases where the timestamp format is different from the expected format
-            return f"{note} {timestamp}"
+            return f"{timestamp} - {note}"
     return None
 
 def process_csv_file(file_path: str) -> List[str]:
