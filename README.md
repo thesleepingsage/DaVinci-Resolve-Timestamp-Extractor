@@ -19,6 +19,9 @@ This Python script allows you to extract timestamps and notes from CSV files con
 
 ### <p align='center'> macOS Version <br> <p align='center'> [<img src="https://img.shields.io/badge/Free-Download-blue?style=plastic&logo=apple&logoColor=blue&label=Free" width="300">](https://github.com/thesleepingsage/DaVinci-Resolve-Timestamp-Extractor/releases/download/v2.5/Release_macOS.zip)  <p align='center'>
 
+### <p align='center'> Python Version <br> <p align='center'> [<img src="https://img.shields.io/badge/Free-Download-blue?style=plastic&logo=python&logoColor=blue&label=Free" width="300">](hhttps://github.com/thesleepingsage/DaVinci-Resolve-Timestamp-Extractor/releases/download/v2.5/Scripts.zip)  <p align='center'>
+
+
 ## How to Export Timestamps CSV in DaVinci Resolve
 
 - Video Guide Coming Soon
