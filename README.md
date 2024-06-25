@@ -55,11 +55,13 @@ I have included an example timestamp CSV file which you can test from.
 - If running the script, Python 3.x
 - No external dependencies
 
-
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Disclaimer
+
+This software is provided free of charge on an as-is basis. Any monetary contributions made in relation to this software are considered voluntary donations and do not constitute a sale or purchase. The author retain all rights to the software and make no warranties, express or implied, regarding its use or performance.
 
 ## License
 
