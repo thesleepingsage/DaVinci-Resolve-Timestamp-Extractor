@@ -63,6 +63,12 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This software is provided free of charge on an as-is basis. Any monetary contributions made in relation to this software are considered voluntary donations and do not constitute a sale or purchase. The author retain all rights to the software and make no warranties, express or implied, regarding its use or performance.
 
+## Donations
+
+While this software is distributed free of charge, voluntary contributions are appreciated. If you find this project valuable and wish to make a donation, please visit: https://ko-fi.com/s/35e059b0ac
+
+Please note that donations are entirely optional and do not confer any additional rights, privileges, or entitlements with respect to the software. All contributions are gratefully acknowledged.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
